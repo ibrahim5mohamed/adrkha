@@ -398,20 +398,6 @@ pre code {
     padding: 0
 }
 
-table td,
-table th {
-    vertical-align: top
-}
-
-table td:not([align]),
-table th:not([align]) {
-    text-align: inherit
-}
-
-table th {
-    color: #07122b
-}
-
 @-webkit-keyframes spinAround {
     0% {
         -webkit-transform: rotate(0deg);
@@ -14327,7 +14313,6 @@ html.has-menu-blog {
     .navbar.is-active {
         font-size: 13px;
         font-weight: 900;
-        font-family: Mulish-Black
     }
 
     .navbar.is-active .navbar-start,
@@ -14345,7 +14330,6 @@ html.has-menu-blog {
 .navbar :focus {
     outline: none;
     font-weight: 900;
-    font-family: Mulish-Black
 }
 
 @media screen and (max-width:992px) {
@@ -16661,7 +16645,6 @@ a.has-text-link-light:hover {
 
 .footer .is-uppercase {
     font-size: 13px;
-    font-family: Mulish-Black;
     font-weight: 900;
     color: rgba(7, 18, 43, .3)
 }
@@ -16692,26 +16675,8 @@ a.has-text-link-light:hover {
     }
 }
 
-.H1 {
-    font-size: 52px;
-    line-height: 65px
-}
-
-.H1,
-.H2 {
-    font-family: Mulish-Black;
-    font-style: normal;
-    font-weight: 900
-}
-
-.H2 {
-    font-size: 48px;
-    line-height: 64px
-}
-
 .H3,
 .H3New {
-    font-family: Mulish-Black;
     font-size: 40px;
     font-style: normal;
     font-weight: 900;
@@ -16734,7 +16699,6 @@ a.has-text-link-light:hover {
 
 .H4,
 .H4New {
-    font-family: Mulish-Black;
     font-size: 24px;
     font-style: normal;
     font-weight: 900;
@@ -16746,19 +16710,6 @@ a.has-text-link-light:hover {
         font-size: 20px;
         line-height: 28px
     }
-}
-
-.H5 {
-    font-size: 20px;
-    line-height: 24px
-}
-
-.B1,
-.button,
-.H5 {
-    font-family: Mulish-Black;
-    font-style: normal;
-    font-weight: 900
 }
 
 .B1,
@@ -16778,7 +16729,6 @@ a.has-text-link-light:hover {
 }
 
 .T1 {
-    font-family: Mulish-Black;
     text-transform: uppercase;
     font-weight: 900;
     font-size: 13px;
