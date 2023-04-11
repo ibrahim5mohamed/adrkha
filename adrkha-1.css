@@ -11878,7 +11878,7 @@ a.has-text-primary-dark:hover {
 }
 
 .mr-3 {
-    margin-right: 12px !important
+    margin-left: 12px !important
 }
 
 .mb-3 {
@@ -16898,14 +16898,7 @@ a.has-text-link-light:hover {
 }
 
 .P3 {
-    font-size: 13px;
     line-height: 18px
-}
-
-.P3,
-.P3New {
-    font-style: normal;
-    font-weight: 400
 }
 
 .P3New {
