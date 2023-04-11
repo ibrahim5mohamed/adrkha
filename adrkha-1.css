@@ -335,107 +335,6 @@ fieldset[disabled] .textarea {
 }
 
 /*! minireset.css v0.0.6 | MIT License | github.com/jgthms/minireset.css */
-.navbar-burger,
-blockquote,
-body,
-dd,
-dl,
-dt,
-fieldset,
-figure,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-hr,
-html,
-iframe,
-legend,
-li,
-ol,
-p,
-pre,
-textarea,
-ul {
-    margin: 0;
-    padding: 0
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    font-size: 100%;
-    font-weight: 400
-}
-
-ul {
-    list-style: none
-}
-
-button,
-input,
-select,
-textarea {
-    margin: 0
-}
-
-html {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box
-}
-
-*,
-:after,
-:before {
-    -webkit-box-sizing: inherit;
-    -moz-box-sizing: inherit;
-    box-sizing: inherit
-}
-
-img,
-video {
-    height: auto;
-    max-width: 100%
-}
-
-iframe {
-    border: 0
-}
-
-table {
-    border-collapse: collapse;
-    border-spacing: 0
-}
-
-td,
-th {
-    padding: 0
-}
-
-td:not([align]),
-th:not([align]) {
-    text-align: inherit
-}
-
-html {
-    background-color: #fff;
-    font-size: 16px;
-    -moz-osx-font-smoothing: grayscale;
-    -webkit-font-smoothing: antialiased;
-    min-width: 300px;
-    overflow-x: hidden;
-    overflow-y: scroll;
-    text-rendering: optimizeLegibility;
-    -webkit-text-size-adjust: 100%;
-    text-size-adjust: 100%
-}
-
 code,
 pre {
     -moz-osx-font-smoothing: auto;
@@ -14271,15 +14170,6 @@ screen and (min-width:768px) {
         padding: 3rem
     }
 }
-
-.section {
-    padding: 80px 1rem
-}
-
-@media screen and (min-width:992px) {
-    .section {
-        padding: 3rem
-    }
 
     .section.is-medium {
         padding: 60px 1.5rem
