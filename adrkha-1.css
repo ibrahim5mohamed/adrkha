@@ -17514,7 +17514,7 @@ a.has-text-link-light:hover {
 }
 
 svg {
-    pointer-events: none
+    pointer-events: none;
     width: inherit;
     height: inherit;    
 }
