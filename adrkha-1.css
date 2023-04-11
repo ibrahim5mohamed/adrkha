@@ -17515,6 +17515,8 @@ a.has-text-link-light:hover {
 
 svg {
     pointer-events: none
+    width: inherit;
+    height: inherit;    
 }
 
 .section-divider {
