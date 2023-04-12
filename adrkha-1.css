@@ -2466,7 +2466,7 @@ fieldset[disabled] .button {
     font-size: 52px
 }
 
-.icon {
+.iconn {
     -webkit-align-items: center;
     -moz-box-align: center;
     align-items: center;
@@ -3713,11 +3713,10 @@ a.tag:hover {
 .input,
 .select select,
 .textarea {
-    background-color: #fff;
+    background-color: inherit;
     border-color: #ccc;
     -moz-border-radius: unset;
     border-radius: unset;
-    color: #07122b
 }
 
 .input::-moz-placeholder,
@@ -5122,7 +5121,8 @@ fieldset[disabled] .select select:hover {
     -moz-box-flex: 1;
     flex-grow: 1;
     -webkit-flex-shrink: 1;
-    flex-shrink: 1
+    flex-shrink: 1;
+    color: black;
 }
 
 .field.has-addons.has-addons-centered {
@@ -16612,7 +16612,6 @@ a.has-text-link-light:hover {
 
 .footer a.link,
 .footer p {
-    font-family: Geomanist-book;
     font-size: 16px;
     font-weight: 400
 }
@@ -16635,7 +16634,6 @@ a.has-text-link-light:hover {
 
 .footer .level,
 .footer .level .link {
-    font-family: Geomanist-book;
     font-size: 16px;
     font-weight: 400;
     line-height: 22px;
@@ -16703,15 +16701,6 @@ a.has-text-link-light:hover {
     line-height: 28px
 }
 
-@media screen and (max-width:767px) {
-
-    .B1,
-    .button {
-        font-size: 13px;
-        line-height: 28px
-    }
-}
-
 .T1 {
     text-transform: uppercase;
     font-weight: 900;
@@ -16725,7 +16714,6 @@ a.has-text-link-light:hover {
 }
 
 .FooterText {
-    font-family: Geomanist-book;
     font-size: 16px;
     font-weight: 400;
     line-height: 22px
@@ -16733,7 +16721,6 @@ a.has-text-link-light:hover {
 
 .content ul li,
 .P1 {
-    font-family: Geomanist-light;
     font-size: 24px;
     font-style: normal;
     font-weight: 300;
