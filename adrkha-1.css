@@ -17422,12 +17422,6 @@ a.has-text-link-light:hover {
     border-radius: 8px
 }
 
-svg {
-    pointer-events: none;
-    width: inherit;
-    height: inherit;    
-}
-
 .section-divider {
     margin-top: 40px;
     margin-bottom: 40px
