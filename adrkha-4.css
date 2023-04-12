@@ -1439,7 +1439,6 @@
 
 .styles_H1__4DwKq,
 .styles_H2__2la3k {
-    font-family: Mulish-Black;
     font-style: normal;
     font-weight: 900
 }
@@ -1451,7 +1450,6 @@
 
 .styles_H3__1rwAP,
 .styles_H3New__ASfaL {
-    font-family: Mulish-Black;
     font-size: 40px;
     font-style: normal;
     font-weight: 900;
@@ -1474,7 +1472,6 @@
 
 .styles_H4__3JYxT,
 .styles_H4New__jQFnZ {
-    font-family: Mulish-Black;
     font-size: 24px;
     font-style: normal;
     font-weight: 900;
@@ -1496,7 +1493,6 @@
 .styles_B1__25nPZ,
 .styles_button__DNNpZ,
 .styles_H5__16pTg {
-    font-family: Mulish-Black;
     font-style: normal;
     font-weight: 900
 }
@@ -1518,7 +1514,6 @@
 }
 
 .styles_T1__2DKaO {
-    font-family: Mulish-Black;
     text-transform: uppercase;
     font-style: normal;
     font-weight: 900;
@@ -1527,7 +1522,6 @@
 }
 
 .styles_FooterText__3mMG_ {
-    font-family: Geomanist-book;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -1536,7 +1530,6 @@
 
 .styles_content__1V1_X ul li,
 .styles_P1__2IrNa {
-    font-family: Geomanist-light;
     font-size: 24px;
     font-style: normal;
     font-weight: 300;
@@ -1553,7 +1546,6 @@
 }
 
 .styles_P1Regular__3R2qF {
-    font-family: Geomanist-Regular;
     font-size: 24px;
     font-style: normal;
     font-weight: 400;
@@ -1572,7 +1564,6 @@
 .styles_select__2HBO9,
 .styles_tag__33nX-,
 .styles_tag__33nX-:not(body) {
-    font-family: Geomanist-Regular;
     font-size: 18px;
     font-style: normal;
     font-weight: 300;
@@ -1604,7 +1595,6 @@
 }
 
 .styles_P2Regular__1tO09 {
-    font-family: Geomanist-Regular;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -1638,7 +1628,6 @@
 }
 
 .styles_P3__2vtkm {
-    font-family: Mulish-Regular;
     font-size: 13px;
     font-style: normal;
     font-weight: 400;
@@ -1646,7 +1635,6 @@
 }
 
 .styles_P3New__8uV1I {
-    font-family: Geomanist-Regular;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
@@ -1661,7 +1649,6 @@
 }
 
 .styles_P4__3rA8f {
-    font-family: Geomanist-Regular;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -1770,7 +1757,6 @@
     }
 
     .styles_H5-alternate-mobile__1sbtl {
-        font-family: Mulish-Black;
         font-size: 24px;
         font-style: normal;
         font-weight: 900;
@@ -1785,7 +1771,6 @@
 
 .styles_BlogH1__1IMyv,
 .styles_BlogH2__3K_UG {
-    font-family: Mulish-Black;
     font-style: normal;
     font-weight: 900
 }
@@ -1796,15 +1781,10 @@
 }
 
 .styles_BlogH3__2G3ps {
-    font-family: Mulish-Black;
     font-style: normal;
     font-weight: 900;
     font-size: 24px;
     line-height: 40px
-}
-
-.styles_BlogP1Light__11ra8 {
-    font-family: Geomanist-Light
 }
 
 .styles_BlogP1Book__G0Zrf,
@@ -1815,12 +1795,7 @@
     line-height: 28px
 }
 
-.styles_BlogP1Book__G0Zrf {
-    font-family: Geomanist-book
-}
-
 .styles_BlogP1Regular__2PGv_ {
-    font-family: Geomanist-Regular;
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -1829,7 +1804,6 @@
 
 .styles_BlogP2Regular__PBw2h,
 .styles_BlogP2RegularUnderline__1qbJp {
-    font-family: Geomanist-Regular;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -1843,7 +1817,6 @@
 }
 
 .styles_BlogP3__1D9Ls {
-    font-family: Mulish-Regular;
     font-style: normal;
     font-weight: 400;
     font-size: 13px;
@@ -2004,7 +1977,6 @@
 
 @media screen and (max-width:767px) {
     .styles_list__1e3ki .styles_name__152JH {
-        font-family: Mulish-Regular;
         margin-bottom: 10px;
         padding-top: 0 !important;
         font-size: 11px
@@ -2164,7 +2136,6 @@
 
 .styles_H1__ec0IP,
 .styles_H2__2XdCM {
-    font-family: Mulish-Black;
     font-style: normal;
     font-weight: 900
 }
@@ -2176,7 +2147,6 @@
 
 .styles_H3__3cSTg,
 .styles_H3New__2i_mK {
-    font-family: Mulish-Black;
     font-size: 40px;
     font-style: normal;
     font-weight: 900;
@@ -2199,7 +2169,6 @@
 
 .styles_H4__2GbJS,
 .styles_H4New__2fVxx {
-    font-family: Mulish-Black;
     font-size: 24px;
     font-style: normal;
     font-weight: 900;
@@ -2221,7 +2190,6 @@
 .styles_B1__1JrA_,
 .styles_button__14Iuf,
 .styles_H5__V7-UP {
-    font-family: Mulish-Black;
     font-style: normal;
     font-weight: 900
 }
@@ -2243,7 +2211,6 @@
 }
 
 .styles_T1__277K6 {
-    font-family: Mulish-Black;
     text-transform: uppercase;
     font-style: normal;
     font-weight: 900;
@@ -2252,7 +2219,6 @@
 }
 
 .styles_FooterText__3XC4B {
-    font-family: Geomanist-book;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -2261,7 +2227,6 @@
 
 .styles_content__3dHIU ul li,
 .styles_P1__3rkTc {
-    font-family: Geomanist-light;
     font-size: 24px;
     font-style: normal;
     font-weight: 300;
@@ -2278,7 +2243,6 @@
 }
 
 .styles_P1Regular__1XFcK {
-    font-family: Geomanist-Regular;
     font-size: 24px;
     font-style: normal;
     font-weight: 400;
@@ -2297,7 +2261,6 @@
 .styles_select__30kgW,
 .styles_tag__2BGqk,
 .styles_tag__2BGqk:not(body) {
-    font-family: Geomanist-Regular;
     font-size: 18px;
     font-style: normal;
     font-weight: 300;
@@ -2329,7 +2292,6 @@
 }
 
 .styles_P2Regular__1n3D4 {
-    font-family: Geomanist-Regular;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -2363,7 +2325,6 @@
 }
 
 .styles_P3__21pF8 {
-    font-family: Mulish-Regular;
     font-size: 13px;
     font-style: normal;
     font-weight: 400;
@@ -2371,7 +2332,6 @@
 }
 
 .styles_P3New__2Ucwg {
-    font-family: Geomanist-Regular;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
@@ -2386,7 +2346,6 @@
 }
 
 .styles_P4__1EhXd {
-    font-family: Geomanist-Regular;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -2495,7 +2454,6 @@
     }
 
     .styles_H5-alternate-mobile__1oGi3 {
-        font-family: Mulish-Black;
         font-size: 24px;
         font-style: normal;
         font-weight: 900;
@@ -2510,7 +2468,6 @@
 
 .styles_BlogH1__3VOkj,
 .styles_BlogH2__3KQs- {
-    font-family: Mulish-Black;
     font-style: normal;
     font-weight: 900
 }
@@ -2521,15 +2478,10 @@
 }
 
 .styles_BlogH3__LkGJu {
-    font-family: Mulish-Black;
     font-style: normal;
     font-weight: 900;
     font-size: 24px;
     line-height: 40px
-}
-
-.styles_BlogP1Light__3gWM1 {
-    font-family: Geomanist-Light
 }
 
 .styles_BlogP1Book__2IfYI,
@@ -2540,12 +2492,7 @@
     line-height: 28px
 }
 
-.styles_BlogP1Book__2IfYI {
-    font-family: Geomanist-book
-}
-
 .styles_BlogP1Regular__2zSC6 {
-    font-family: Geomanist-Regular;
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -2554,7 +2501,6 @@
 
 .styles_BlogP2Regular__CgbVF,
 .styles_BlogP2RegularUnderline__1WNb0 {
-    font-family: Geomanist-Regular;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -2568,7 +2514,6 @@
 }
 
 .styles_BlogP3__7prn_ {
-    font-family: Mulish-Regular;
     font-style: normal;
     font-weight: 400;
     font-size: 13px;
