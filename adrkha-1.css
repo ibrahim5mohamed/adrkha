@@ -156,6 +156,9 @@ fieldset[disabled] .textarea {
 .title:not(:last-child) {
     margin-bottom: 24px
 }
+.title:not(:last-child) {
+    font-size: 30px;
+}
 
 .delete,
 .modal-close {
