@@ -121,6 +121,7 @@
 
 .styles_container__2PklM [class~=checkbox-container] svg {
     color: #fff
+    padding: 0 4px 0 5px;
 }
 
 .styles_container__2PklM [class~=is-active] [class~=checkbox-container] {
