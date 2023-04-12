@@ -3592,13 +3592,6 @@ a.tag:hover {
     word-break: break-word
 }
 
-.subtitle em,
-.subtitle span,
-.title em,
-.title span {
-    font-weight: inherit
-}
-
 .subtitle sub,
 .subtitle sup,
 .title sub,
@@ -3609,18 +3602,6 @@ a.tag:hover {
 .subtitle .tag,
 .title .tag {
     vertical-align: middle
-}
-
-.title {
-    color: #07122b;
-    font-size: 52px;
-    font-weight: 900;
-    line-height: 65px
-}
-
-.title strong {
-    color: inherit;
-    font-weight: inherit
 }
 
 .title:not(.is-spaced)+.subtitle {
@@ -17234,11 +17215,6 @@ a.has-text-link-light:hover {
 
     .has-text-left-mobile {
         text-align: left !important
-    }
-
-    .section {
-        padding-top: 40px;
-        padding-bottom: 40px
     }
 
     .first-section {
