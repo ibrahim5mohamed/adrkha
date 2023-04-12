@@ -2466,7 +2466,7 @@ fieldset[disabled] .button {
     font-size: 52px
 }
 
-.iconn {
+.icon {
     -webkit-align-items: center;
     -moz-box-align: center;
     align-items: center;
@@ -3713,10 +3713,11 @@ a.tag:hover {
 .input,
 .select select,
 .textarea {
-    background-color: inherit;
+    background-color:inherit;
     border-color: #ccc;
     -moz-border-radius: unset;
     border-radius: unset;
+    color: inherit
 }
 
 .input::-moz-placeholder,
@@ -5121,8 +5122,7 @@ fieldset[disabled] .select select:hover {
     -moz-box-flex: 1;
     flex-grow: 1;
     -webkit-flex-shrink: 1;
-    flex-shrink: 1;
-    color: black;
+    flex-shrink: 1
 }
 
 .field.has-addons.has-addons-centered {
@@ -16612,6 +16612,7 @@ a.has-text-link-light:hover {
 
 .footer a.link,
 .footer p {
+    font-family: Geomanist-book;
     font-size: 16px;
     font-weight: 400
 }
@@ -16634,6 +16635,7 @@ a.has-text-link-light:hover {
 
 .footer .level,
 .footer .level .link {
+    font-family: Geomanist-book;
     font-size: 16px;
     font-weight: 400;
     line-height: 22px;
@@ -16701,6 +16703,15 @@ a.has-text-link-light:hover {
     line-height: 28px
 }
 
+@media screen and (max-width:767px) {
+
+    .B1,
+    .button {
+        font-size: 13px;
+        line-height: 28px
+    }
+}
+
 .T1 {
     text-transform: uppercase;
     font-weight: 900;
@@ -16714,6 +16725,7 @@ a.has-text-link-light:hover {
 }
 
 .FooterText {
+    font-family: Geomanist-book;
     font-size: 16px;
     font-weight: 400;
     line-height: 22px
@@ -16721,6 +16733,7 @@ a.has-text-link-light:hover {
 
 .content ul li,
 .P1 {
+    font-family: Geomanist-light;
     font-size: 24px;
     font-style: normal;
     font-weight: 300;
@@ -17420,6 +17433,12 @@ a.has-text-link-light:hover {
 .calendly-inline-widget iframe {
     -moz-border-radius: 8px;
     border-radius: 8px
+}
+
+svg {
+    pointer-events: none;
+    width: inherit;
+    height: inherit;    
 }
 
 .section-divider {
